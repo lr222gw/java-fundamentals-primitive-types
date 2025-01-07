@@ -32,7 +32,7 @@ public class Exercise extends ExerciseBase {
 
 
     // 7. Create a public char member named lastLetter containing the last letter of the English alphabet
-    public char lastLetter = 'z';
+    public char lastLetter = 'Z';
 
 
 
